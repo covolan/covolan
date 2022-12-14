@@ -1,5 +1,7 @@
   # Alexandre Covolan
 
+  ## I graduated in physics of materials from UNESP. Junior programmer in C++ and python.
+
 - 👋 Hi, I’m @covolan
 - 👀 I’m interested in Physics and Programming.
 - 🌱 I’m currently learning Python, c++, c and git.
