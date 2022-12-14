@@ -4,6 +4,7 @@
 
   My contacts:
   Linked-In: https://www.linkedin.com/in/alexandre-covolan/
+  
   e-mail: covolan09@gmail.com
  
   I'm a Brazilian citizen and I've always been passionate about technology and programming, I went to college at UNESP and I have a bachelor's degree in materials physics. I currently program in python and c++, I love problem solving and competitive programming.
