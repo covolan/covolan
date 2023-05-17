@@ -17,7 +17,6 @@
  - :computer: Git and Github
  - :atom_symbol: Quantum computing
  - :boxing_glove: Boxing
- - :soccer: Football
  
  
  <!---
