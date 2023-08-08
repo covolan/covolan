@@ -12,11 +12,12 @@
  
  Some of my skills and passions:
  
- - :computer: Python
- - :computer: C++
- - :computer: Git and Github
- - :atom_symbol: Quantum computing
- - :boxing_glove: Boxing
+ - :computer: Python;
+ - :computer: C++;
+ - :computer: Git and Github;
+ - :atom_symbol: Quantum computing;
+ - :boxing_glove: Boxing;
+ - :computer:Javascript, HTML, CSS;
  
  
  <!---
