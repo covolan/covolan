@@ -7,7 +7,7 @@
   - Linked-In: https://www.linkedin.com/in/alexandre-covolan/
   - e-mail: covolan09@gmail.com
  
-  I'm a Brazilian citizen and I've always been passionate about technology and programming, I went to college at UNESP and I have a bachelor's degree in materials physics. I currently program in python and c++, I love problem solving and competitive programming.
+  I'm a Brazilian citizen and I've always been passionate about technology and programming, I went to college at UNESP and I have a bachelor's degree in materials physics. I currently program in python, c++ and javascript. I love problem solving and competitive programming.
  
  
  Some of my skills and passions:
@@ -16,7 +16,6 @@
  - :computer: C++;
  - :computer: Git and Github;
  - :atom_symbol: Quantum computing;
- - :boxing_glove: Boxing;
  - :computer:Javascript, HTML, CSS;
  
  
