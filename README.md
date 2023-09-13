@@ -1,32 +1,55 @@
   # Alexandre Covolan :brazil:
 
-  ## I graduated in physics of materials from UNESP. Junior programmer in C++ and python. :books:
+  ## 👋 Hi! I am a Frontend developer! 💻
 
-  My contacts:
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200px">    
+  </div>
+
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/alexandre-covolan/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.freecodecamp.org/Covolan" target="_blank">
+      <img src="https://img.shields.io/badge/FreeCodeCamp-%230A0A23?style=for-the-badge&logo=freecodecamp">
+    </a>
+  </div>
+
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=covolan&style=flat-square&color=blue" alt=""/>
+  </div>
   
-  - Linked-In: https://www.linkedin.com/in/alexandre-covolan/
-  - e-mail: covolan09@gmail.com
- 
-  I'm a Brazilian citizen and I've always been passionate about technology and programming, I went to college at UNESP and I have a bachelor's degree in materials physics. I currently program in python, c++ and javascript. I love problem solving and competitive programming.
- 
- 
- Some of my skills and passions:
- 
- - :computer: Python;
- - :computer: C++;
- - :computer: Git and Github;
- - :atom_symbol: Quantum computing;
- - :computer:Javascript, HTML, CSS;
- 
- 
- <!---
-- 👋 Hi, I’m @covolan
-- 👀 I’m interested in Physics and Programming.
-- 🌱 I’m currently learning Python, c++, c and git.
-- 💞️ I’m looking to collaborate on open source projects and physics related material.
-- 📫 How to reach me send-me and message on github or on my personal e-mail: covolan09@gmail.com
+   ---
+  
+  ## 👩‍💻 About me:
 
+  I'm a Brazilian 🇧🇷 citizen currently working on becoming a fullstack developer. 
+  - 🧑‍💼 I'm working as a freelancer web developer.
+  - 💻 I love technology and problem solving.
+  - 📚 In my free time I like to solve problems and learn about the rising technology.
+  - 📧 Reach me on my <a href="https://www.linkedin.com/in/alexandre-covolan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a> or my <a href="mailto:covolan09@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white"></a>.
 
-covolan/covolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ---
+
+ ## 🛠️ Languages and technologies:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30px">
+</div>
+
+  ---
+
+  ## 🔥 My current status:
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=covolan&border_radius=5)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=covolan&layout=compact)
+ 
