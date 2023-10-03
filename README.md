@@ -3,7 +3,7 @@
   ## 👋 Hi! I am a Frontend developer! 💻
 
   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200px">    
+    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300px">    
   </div>
 
   <div id="badges" align="center">
@@ -12,6 +12,9 @@
     </a>
     <a href="https://www.freecodecamp.org/Covolan" target="_blank">
       <img src="https://img.shields.io/badge/FreeCodeCamp-%230A0A23?style=for-the-badge&logo=freecodecamp">
+    </a>
+    <a href="https://www.frontendmentor.io/profile/covolan" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Frontend_mentor-gray?style=for-the-badge&link=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2Fcovolan">
     </a>
   </div>
 
@@ -23,12 +26,13 @@
   
   ## 👩‍💻 About me:
 
-  I'm a Brazilian 🇧🇷 citizen currently working on becoming a fullstack developer. 
+  I'm a Brazilian citizen currently working on becoming a fullstack developer. 
   - 🧑‍💼 I'm working as a freelancer web developer.
   - 💻 I love technology and problem solving.
   - 📚 In my free time I like to solve problems and learn about the rising technology.
   - 📧 Reach me on my <a href="https://www.linkedin.com/in/alexandre-covolan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a> or my <a href="mailto:covolan09@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white"></a>.
-
+  - 💻 My webpage for the completed Frontend Mentor <a href="https://covolan.github.io/frontend-mentor1/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Challenges-red?style=flat"></a>.
+  
   ---
 
  ## 🛠️ Languages and technologies:
