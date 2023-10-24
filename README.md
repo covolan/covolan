@@ -1,63 +1,32 @@
-  # Alexandre Covolan :brazil:
+<h1 align="center">Hi 👋, I'm Alexandre Covolan</h1>
+<h3 align="center">A Physicist and Front End developer from Brazil</h3>
 
-  ## 👋 Hi! I am a Frontend developer! 💻
+<p align="center"><img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300px"></p>
 
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300px">    
-  </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=covolan&label=Profile%20views&color=0e75b6&style=flat" alt="covolan" /> </p>
 
-  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/alexandre-covolan/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.freecodecamp.org/Covolan" target="_blank">
-      <img src="https://img.shields.io/badge/FreeCodeCamp-%230A0A23?style=for-the-badge&logo=freecodecamp">
-    </a>
-    <a href="https://www.frontendmentor.io/profile/covolan" target="_blank">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Frontend_mentor-gray?style=for-the-badge&link=https%3A%2F%2Fwww.frontendmentor.io%2Fprofile%2Fcovolan">
-    </a>
-  </div>
+- 🔭 I’m currently working on [Curriculum Generator](https://github.com/covolan/react-learning)
 
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=covolan&style=flat-square&color=blue" alt=""/>
-  </div>
-  
-   ---
-  
-  ## 👩‍💻 About me:
+- 🌱 I’m currently learning **React.js, Node.js and express.js**
 
-  I'm a Brazilian citizen currently working on becoming a fullstack developer. 
-  - 🧑‍💼 I'm working as a freelancer web developer.
-  - 💻 I love technology and problem solving.
-  - 📚 In my free time I like to solve problems and learn about the rising technology.
-  - 📧 Reach me on my <a href="https://www.linkedin.com/in/alexandre-covolan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a> or my <a href="mailto:covolan09@gmail.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white"></a>.
-  - 💻 My webpage for the completed Frontend Mentor <a href="https://covolan.github.io/frontend-mentor1/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Challenges-red?style=flat"></a>.
-  
-  ---
+- 👯 I’m looking to collaborate on **any front end related project.**
 
- ## 🛠️ Languages and technologies:
+- 💬 Ask me about **Physics, Sass, React.js, HTML, JavaScript**
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30px">
+- 📫 How to reach me **covolan09@gmail.com**
 
-</div>
+- 💻 I love **technology** and **problem solving**.
 
-  ---
+- 📚 In my free time I like go to the gym and learn about the rising technology.
 
-  ## 🔥 My current status:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/covolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="covolan" height="30" width="40" /></a>
+<a href="https://dev.to/covolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="covolan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandre-covolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-covolan" height="30" width="40" /></a>
+</p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=covolan&border_radius=5)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=covolan&layout=compact)
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=covolan&show_icons=true&locale=en&layout=compact" alt="covolan" /></p>
