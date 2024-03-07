@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=covolan&label=Profile%20views&color=0e75b6&style=flat" alt="covolan" /> </p>
 
-- 🔭 I’m currently working on [Curriculum Generator](https://github.com/covolan/react-learning)
+- 🔭 I’m currently working on Updating my [Portifolio](https://covolan.github.io/Projects-portifolio/)
 
 - 🌱 I’m currently learning **React.js, Node.js and express.js**
 
