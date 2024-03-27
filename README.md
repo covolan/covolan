@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=covolan&label=Profile%20views&color=0e75b6&style=flat" alt="covolan" /> </p>
 
-- 🔭 I’m currently working on Updating my **<a href="https://covolan.github.io/portifolio/" target="_blank">Portifolio</a>** :point_left::point_left:
+- 🔭 I’m currently working on Updating my **<a href="https://covolan.github.io/portifolio/" target="blank">Portifolio</a>** :point_left::point_left:
 
 
 - 🌱 I’m currently learning **React.js, Node.js and express.js** 
