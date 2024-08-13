@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre Covolan</h1>
 <h3 align="center">A Physicist and Front End developer from Brazil</h3>
+<h3 align="center">Check out my <a href="https://covolan.github.io/portifolio/" target="_blank">Portifolio</a> </h3>
 
 <p align="center"><img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300px"></p>
 
